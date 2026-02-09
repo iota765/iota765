@@ -10,8 +10,6 @@
 ### 🧑‍🎓 About Me
 
 - 🎓 **Undergraduate Student** specializing in AI/ML.
-- 💡 **Currently Building:** A Career Role Match Assessment tool using FastAPI and LLMs.
-- 🌱 **Learning:** Scalable System Design and LLM Fine-tuning.
 - 💻 **Focus:** Bridging the gap between raw data and actionable AI insights.
 - 📫 Email: **gauravpatni1923@gmail.com**
 
