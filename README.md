@@ -7,8 +7,8 @@
 
 ### 🧑‍🎓 About Me
 
-- 🎓 **Undergraduate Student** intrested in AI/ML and Generative AI
-- 👀 **Interested in:** Machine Learning & AI
+- 🎓 **Undergraduate Student** at IIT ROORKEE
+- 👀 **Interested in:** AI/ML and Generative AI
 - 🌱 **Learning:** RAG systems and architectures
 - 📫 **Email:** gauravpatni1923@gmail.com
 
