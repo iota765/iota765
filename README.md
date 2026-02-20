@@ -9,7 +9,7 @@
 
 ### 🧑‍🎓 About Me
 
-- 🎓 **Undergraduate Student** specializing in AI/ML
+- 🎓 **Undergraduate Student** intrested in AI/ML and Generative AI
 - 👀 **Interested in:** Machine Learning & AI
 - 🌱 **Learning:** RAG systems and architectures
 - 📫 **Email:** gauravpatni1923@gmail.com
