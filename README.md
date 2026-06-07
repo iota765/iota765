@@ -20,7 +20,7 @@
 <a href="https://leetcode.com/u/black_mamba_2005/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
 </a>
-<a href="https://codeforces.com/profile/GAURAV_07" target="_blank">
+<a href="https://codeforces.com/profile/GAURAV_07_" target="_blank">
   <img src="https://img.shields.io/badge/Codeforces-1f8acb?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces" />
 </a>
 <a href="mailto:gauravpatni1923@gmail.com">
